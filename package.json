@@ -1,0 +1,34 @@
+{
+  "name": "vidly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/hapi__joi": "^16.0.11",
+    "bcrypt": "^3.0.8",
+    "certbot": "^5.0.3",
+    "config": "^3.2.6",
+    "express": "^4.16.2",
+    "express-async-errors": "^3.1.1",
+    "express-device": "^0.4.2",
+    "fawn": "^2.1.5",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "joi": "^13.1.0",
+    "joi-objectid": "^2.0.0",
+    "joi-password-complexity": "^4.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.19",
+    "path": "^0.12.7",
+    "tai-password-strength": "^1.1.1",
+    "winston": "^3.2.1",
+    "winston-mongodb": "^5.0.1"
+  }
+}
